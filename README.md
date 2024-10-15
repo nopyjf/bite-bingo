@@ -6,7 +6,7 @@ Clone the repo by running
 git clone https://github.com/nopyjf/bite-bingo.git
 ```
 
-### After cloning Fill all requirement in `.env` **(rename `.env.example` to `.env`)**, then run
+### <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="15px" height="15px"> After cloning Fill all requirement in `.env` **(rename `.env.example` to `.env`)**, then run
 
 ```bash
 npm install
